@@ -11,49 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics and Applied Mathematics, Shanghai Jiao Tong University (Zhiyuan College), 2015
+* M.S. in Applied Mathematics and Computer Science, King Abdullah University of Science and Technology, 2017
+* Ph.D candidate in Applied Mathematics and Computer Science, King Abdullah University of Science and Technology, Now
 
-Work experience
+
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019: UCLA Vision Lab
+  * Visiting Student
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Shanghai Qingyun (LOCOMO) Sports Science & Development Co. Ltd
+  * Co-founder
   
-Skills
+Research
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Unsupervised Domain Adaptation in a Bayesian Framework
+  * Joint collaboration with Dr.Yanchao Yang, supervised by Professor Stefano Soatto
+* Layered Moving Object Segmentation
+  * Supervised by Professor Ganesh Sundaramoorthi
+* Minimum Latency Computer Vision
+  * Supervised by Professor Ganesh Sundaramoorthi
+* Solitary Solution Analysis in Nonlinear PDEs
+  * Supervised by Professor Guofu Yu
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+Service
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Since 2017, reviewer of major computer vision conferences
