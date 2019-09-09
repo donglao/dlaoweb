@@ -13,8 +13,6 @@ Education
 ======
 * B.S. in Mathematics and Applied Mathematics, Shanghai Jiao Tong University (Zhiyuan College), 2015
 * M.S. in Applied Mathematics and Computer Science, King Abdullah University of Science and Technology, 2017
-* Ph.D candidate in Applied Mathematics and Computer Science, King Abdullah University of Science and Technology, Now
-
 
 Experience
 ======
